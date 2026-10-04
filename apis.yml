@@ -1,5 +1,5 @@
 aid: widgera-inc
-name: Widgera, Inc.
+name: Widgera
 description: >-
   Widgera is an AI-native business platform that unifies a company's operations
   into what it calls "One Adaptive OS." Its AI assistants (branded Aiva) learn a
@@ -56,7 +56,7 @@ tags:
 - Business Operations
 - Adaptive OS
 - CRM
-- Workflow-Automation
+- Workflow Automation
 - Enterprise Software
 - Customer Interaction
 tags_raw:
@@ -69,6 +69,7 @@ tags_raw:
 - Workflow Automation
 - Enterprise Software
 - Customer Interaction
+- Workflow-Automation
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -93,3 +94,4 @@ x-enrichment:
   status: enriched
   artifacts_added: 2
   pass: local-v1
+x-legal-name: Widgera, Inc.
