@@ -1,0 +1,20 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/widgera-inc/integrations
+- https://zapier.com/apps/widgera/integrations
+- https://n8n.io/integrations/widgera-inc/
+- https://n8n.io/integrations/widgera/
+- https://composio.dev/toolkits/widgera-inc
+- https://monid.ai/tools/widgera-inc
+checked:
+- https://composio.dev/toolkits/widgera-inc
+- https://monid.ai/tools/widgera-inc
+- https://n8n.io/integrations/widgera-inc/
+- https://n8n.io/integrations/widgera/
+- https://zapier.com/apps/widgera-inc/integrations
+- https://zapier.com/apps/widgera/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
